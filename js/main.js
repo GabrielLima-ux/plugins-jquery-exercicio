@@ -1,7 +1,7 @@
 $(document).ready(function () {
     $('#carousel-imagens').slick({
-            autoplay: true,
-            arrows: false
+        autoplay: true,
+        arrows: false
     })
     })
     $('#telefone').mask('(00) 00000-0000', {
